@@ -1,7 +1,7 @@
 # Climate & Sustainability Virtual Experience Program
 ## Setting the Baseline
 Client: Fast Cars  
-BCG task: help them deliver on their Science Based Target initiative (SBTi) pledge to reduce their carbon emissions 
+BCG task: help them deliver on their Science Based Target initiative (SBTi) pledge to reduce their carbon emissions  
 My task: help to understand the current emissions profile of Fast Cars  
 Background: Fast Cars has committed to net-zero scope 1 and 2 GHG (Greenhouse Gas) emissions reduction by 2030 (from a 2018 base). Fast Cars has not committed yet to reducing its scope 3 GHG emissions but is considering doing so in the future.  
 scope 1: direct emissions from owned or controlled sources  
