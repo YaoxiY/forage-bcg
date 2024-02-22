@@ -2,8 +2,8 @@
 ## Setting the Baseline
 **Client**: Fast Cars  
 **Motivation** for consulting service:  
-- client are under pressure from investors to address climate change
-- new goverment regulations are expected to force a phase out of Internal Combustion Engine used in their cars.
+- client is under pressure from investors to address climate change
+- new government regulations are expected to force a phase-out of Internal Combustion Engine used in their cars.
 - They have set carbon emission reduction targets using SBTi, but it's at the beginning phase.
 **Task**: help them deliver on their Science Based Target initiative (SBTi) pledge to reduce their carbon emissions  
 **Context**: Fast Cars has committed to net-zero scope 1 and 2 GHG (Greenhouse Gas) emissions reduction by 2030 (from a 2018 base). Fast Cars has not yet committed to reducing its scope 3 GHG emissions but is considering doing so.  
@@ -21,21 +21,21 @@ Fast Cars scored B in CDP's 2020 results. [CDP report](https://www.cdp.net/en/
 ![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/9b6be189-388e-47c3-bd69-a016aa6db721)
 I fetched data from CDP and studied 35 companies in the automotive industry. As is shown in the table, the mode is A-, 71.4% companies score better than the client, 8.6% companies have the same score as the client, 20% companies score worse than the client. In brief, Fast Cars was in a low position in the automotive industry.
 ## Costs and Benefits
-Since the client has a limited budget, we must prioritize initiatives that will have the greatest impact and return on investment. At BCG, we often use abatement cost curve to demonstrate a "step lader" pathway to net-zero.
+Since the client has a limited budget, we must prioritize initiatives that will have the greatest impact and return on investment. At BCG, we often use abatement cost curve to demonstrate a "step ladder" pathway to net zero.
 ### example
 ![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/1269406d-6733-4e55-aef3-a994b1788311)
 *x-axis: the impact of each intervention on emissions  
 y-axis: the cost of the intervention*
 ![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/3598547f-edf3-4023-96e8-50a4bdf94f67)
-top main sources emissions are purchased electricity and onsite gas boilers
+The top main sources of emissions are purchased electricity and onsite gas boilers
 ### reference materials
 [NET-Zero Challenge: The Supply Chain Opportunity](https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1636531908474/WEF%20Abatement%20Curve%20Resource.pdf) *p14,20,39* 
 - **Energy Efficiency**: Upgrading to energy-saving technologies and optimizing processes can significantly reduce a client's electricity consumption, leading to lower emissions from the power grid.
-- **Renewable Energy Purchases**: Buying renewable energy certificates or investing in green energy projects helps clinet offset its carbon footprint, supporting cleaner electricity generation and reducing reliance on fossil fuels.
-- **Onsite Renewable Generation**: Installing solar panels or wind turbines allows clinet to generate its own clean power, cutting emissions from both purchased electricity and onsite gas boilers.
+- **Renewable Energy Purchases**: Buying renewable energy certificates or investing in green energy projects helps client offset its carbon footprint, supporting cleaner electricity generation and reducing reliance on fossil fuels.
+- **Onsite Renewable Generation**: Installing solar panels or wind turbines allows the client to generate its clean power, cutting emissions from both purchased electricity and onsite gas boilers.
 [BCG Report: Supply Chains as a Game-Changer in the Fight Against Climate Change](https://web-assets.bcg.com/b3/79/e18102e14739bb2101a49d8e63f0/bcg-supply-chains-as-a-game-changer-in-the-fight-against-climate-change-mar-2021.pdf)  
 - **Supply Chain Optimization**: client can reduce emissions by selecting suppliers with sustainable practices, optimizing transportation routes, and minimizing waste, which collectively lowers the carbon footprint of their operations.
-- **Renewable Energy Contracts**: Securing renewable energy contracts ensures client's electricity comes from clean sources, directly reducing emissions associated with purchased power.
+- **Renewable Energy Contracts**: Securing renewable energy contracts ensures the client's electricity comes from clean sources, directly reducing emissions associated with purchased power.
 -**Carbon Capture and Storage (CCS)**: Investing in CCS technologies captures and stores CO2 emissions, contributing to an overall reduction in client's carbon emissions, though not directly targeting onsite gas boilers or purchased electricity.
 [BCG, Who Will Drive Electric Cars to the Tipping Point](https://www.bcg.com/publications/2020/drive-electric-cars-to-the-tipping-point)  
 - **Electrification**: The client can reduce emissions by transitioning their vehicle fleet to electric models, which directly cuts reliance on fossil fuels and decreases the carbon footprint associated with electricity and gas boilers.
@@ -63,7 +63,7 @@ top main sources emissions are purchased electricity and onsite gas boilers
 - The targets are set for different timeframes, with the earliest being by 2030 and the latest by 2035.
 - BMW Group is unique in this group for also addressing emissions from purchased goods and services, as well as upstream transportation and distribution services.
 - The targets vary in percentage, with Volvo Car Group having the highest reduction target at 52%, and Nissan Motor Co., Ltd. having the lowest at 32.5%.
-### key initiatives to consider
+### Key initiatives to consider
 - **Sustainable Design**: Incorporate eco-friendly materials and design vehicles for longevity and recyclability, minimizing emissions from production and disposal.
 - **Supply Chain Management**: Collaborate with suppliers to set emission reduction targets, prioritize low-carbon materials, and optimize logistics to cut transportation-related emissions.
 - **End-of-Life Vehicle Processing**: Improve recycling programs and invest in advanced recycling technologies to efficiently recover materials from end-of-life vehicles, reducing waste-related emissions.
