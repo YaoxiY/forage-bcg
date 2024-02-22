@@ -13,20 +13,20 @@ scope 3: all other indirect emissions that occur in a company's value chain*
 ![img](https://user-images.githubusercontent.com/83184113/148922284-d19bfca3-9ca3-4ad6-af3b-6f9387f4e476.png)  
 (source: [EPA Center for Corporate Climate Leadership](https://www.epa.gov/climateleadership/scope-1-and-scope-2-inventory-guidance))
 ### emission categorization
-![516c9813060bfa5cb5b0815d6e2fcc29.png](en-resource://database/6439:1)
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/a2816138-3e96-4abd-8c9b-50f55efad832)
 ## Context and Benchmarking
 ### benchmark our client Fast Cars' position in the market
-![2bad442bda2edbb4fa3800f4baebce6d.png](en-resource://database/6441:1)  
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/521f2e86-b320-4408-b651-d7b87e78e050)
 Fast Cars scored B in CDP's 2020 results. [CDP report](https://www.cdp.net/en/companies/companies-scores)  
-![f46ff17fe16a332da7ca58082010c79f.png](en-resource://database/6443:1)  
-I fetched data from CDP and studied 35 companies in the automotive industry. As is shown in the table, the mode is A-, 71.4% companies score better than the client, 8.6% companies the same score as the client, 20% companies score worse than the client. In brief, Fast Cars was in a low position in the automotive industry.
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/9b6be189-388e-47c3-bd69-a016aa6db721)
+I fetched data from CDP and studied 35 companies in the automotive industry. As is shown in the table, the mode is A-, 71.4% companies score better than the client, 8.6% companies have the same score as the client, 20% companies score worse than the client. In brief, Fast Cars was in a low position in the automotive industry.
 ## Costs and Benefits
-Since the client has limited budget, we must prioritize initiatives that will have the greatest impact and return on investment. At BCG, we often use abatement cost curve to demonstrate a "step lader" pathway to net-zero.
+Since the client has a limited budget, we must prioritize initiatives that will have the greatest impact and return on investment. At BCG, we often use abatement cost curve to demonstrate a "step lader" pathway to net-zero.
 ### example
-![d50a7085608a47fe1396f5f1ae70e6a5.png](en-resource://database/6445:1)
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/1269406d-6733-4e55-aef3-a994b1788311)
 *x-axis: the impact of each intervention on emissions  
 y-axis: the cost of the intervention*
-![8216818f36348e8cfcb450e1b3c2f59d.png](en-resource://database/6447:1)  
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/3598547f-edf3-4023-96e8-50a4bdf94f67)
 top main sources emissions are purchased electricity and onsite gas boilers
 ### reference materials
 [NET-Zero Challenge: The Supply Chain Opportunity](https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1636531908474/WEF%20Abatement%20Curve%20Resource.pdf) *p14,20,39* 
@@ -50,14 +50,14 @@ top main sources emissions are purchased electricity and onsite gas boilers
 - **Utilization of Renewable Energy**: The client should consider sourcing green electricity from renewable sources such as hydroelectric, wind, and solar power, as Volkswagen does, to minimize the reliance on fossil fuel-generated electricity.
 - **Energy-Efficient Infrastructure**: The client can invest in energy-efficient facilities, similar to Volkswagen's combined heat and power plant in Zwickau, which uses natural gas more efficiently than coal and covers a significant portion of heating needs.
 #### recommended interventions
-- **Supply Chain Optimization**: By choosing sustainable suppliers and optimizing logistics, client can minimize its carbon footprint across the entire operation, leading to cost savings and efficiency.
+- **Supply Chain Optimization**: By choosing sustainable suppliers and optimizing logistics, the client can minimize its carbon footprint across the entire operation, leading to cost savings and efficiency.
 - **Onsite Renewable Generation**: Generating clean power through solar or wind reduces reliance on fossil-fueled electricity, directly lowering emissions from both purchased power and onsite energy use.
 - **Production of Fully Electric Vehicles (FEVs)**: Transitioning to FEVs like Volkswagen's ID.4 reduces the carbon footprint of the vehicle lineup, aligning with the global shift towards sustainable transportation and setting the company as an industry leader in emissions reduction.
 ## Adding Value
 ### sum of upstream/downstream emissions  
-![d7bd897bec2f15ee94ff2518efcd94fa.png](en-resource://database/6449:1)
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/c03924e2-11a9-4394-8821-170896f30704)
 ### competitor analysis
-![83b07ce45176da40accedd08ba406b49.png](en-resource://database/6453:1)
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/95c1df99-ed16-4e26-a9cb-2092996a2744)
 **Findings**
 - All companies are focusing on reducing emissions from the use of sold products, which is a significant component of their overall Scope 3 emissions.
 - The targets are set for different timeframes, with the earliest being by 2030 and the latest by 2035.
@@ -68,10 +68,10 @@ top main sources emissions are purchased electricity and onsite gas boilers
 - **Supply Chain Management**: Collaborate with suppliers to set emission reduction targets, prioritize low-carbon materials, and optimize logistics to cut transportation-related emissions.
 - **End-of-Life Vehicle Processing**: Improve recycling programs and invest in advanced recycling technologies to efficiently recover materials from end-of-life vehicles, reducing waste-related emissions.
 ## Risks and Opportunities
-![7b7ed7976cd07d7187ea87fff599a09d.png](en-resource://database/6455:1)
+![image](https://github.com/YaoxiY/forage-bcg/assets/83184113/40b7f6d4-35de-4aee-8013-33e78f5f14ea)
 ## Making it Stick
 The arguments should seek to explain to the investors:  
-- The long term value delivered by reducing carbon emissions  
+- The long-term value delivered by reducing carbon emissions  
 - Fast Cars improved competitive position with more sustainable production  
 - How we used data to prioritize the most impactful reduction initiatives  
 - The increasing customer demand for sustainable products
