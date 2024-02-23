@@ -1,4 +1,4 @@
-# BCG - Climate & Sustainability Job Simulation
+
 ## Setting the Baseline
 **Client**: Fast Cars  
 **Motivation** for consulting service:  
